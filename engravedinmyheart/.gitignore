@@ -31,3 +31,6 @@ coverage
 
 test-results/
 playwright-report/
+
+# Private (e.g. Tokens, Keys, etc.)
+authToken

@@ -7,10 +7,10 @@
     </div>
 
     <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-[480px]">
-      <div class="bg-white px-6 py-12 shadow sm:rounded-lg sm:px-12">
+      <div class="bg-zinc-800 px-6 py-12 shadow sm:rounded-lg sm:px-12">
         <form class="space-y-6" action="#" method="POST">
           <div>
-            <label for="email" class="block text-sm font-medium leading-6 text-gray-900"
+            <label for="email" class="block text-sm font-medium leading-6 text-white"
               >Email address</label
             >
             <div class="mt-2">
@@ -26,7 +26,7 @@
           </div>
 
           <div>
-            <label for="password" class="block text-sm font-medium leading-6 text-gray-900"
+            <label for="password" class="block text-sm font-medium leading-6 text-white"
               >Password</label
             >
             <div class="mt-2">
@@ -49,7 +49,7 @@
                 type="checkbox"
                 class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-600"
               />
-              <label for="remember-me" class="ml-3 block text-sm leading-6 text-gray-900"
+              <label for="remember-me" class="ml-3 block text-sm leading-6 text-white"
                 >Remember me</label
               >
             </div>
